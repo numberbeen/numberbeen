@@ -1,12 +1,16 @@
 ### 👋 안녕하세요. 데브옵스 엔지니어를 위해 공부하고 있는 현수빈 입니다. 
+
 ---
+
 Email : vhxh20778@gmail.com <br></br>
 Blog : https://velog.io/@numberbeen
 
 사람들과의 협업과 도전을 즐기는 데브옵스 엔지니어를 꿈꾸고 있습니다.
 
 기술 스택
+
 ---
+
 ![aws](https://user-images.githubusercontent.com/118794159/229032424-bc900c19-3345-4f6d-8b70-cd2aaa05dcb9.svg)
 ![Terraform](https://user-images.githubusercontent.com/118794159/229031924-8e19a0b2-45d3-45ff-98bb-40b4928b0d7b.svg)
 ![Docker](https://user-images.githubusercontent.com/118794159/229031932-8ef54262-e006-40b3-8ac5-7eb9ead321d9.svg)
