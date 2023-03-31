@@ -1,14 +1,17 @@
 ### 👋 안녕하세요. 데브옵스 엔지니어를 위해 공부하고 있는 현수빈 입니다. 
 
-
+기술 스택
 ---
-![아마존 aws](https://user-images.githubusercontent.com/118794159/229031888-3d00cf54-ef0a-4a20-a114-15d437d760b9.svg)
-![linux](https://user-images.githubusercontent.com/118794159/229031901-70b9a579-0688-4b49-8f40-e90c1238d8bb.svg)
-![javascript](https://user-images.githubusercontent.com/118794159/229031917-4f03f443-1ff5-4132-b8e9-3db997f34d8b.svg)
+![aws](https://user-images.githubusercontent.com/118794159/229032424-bc900c19-3345-4f6d-8b70-cd2aaa05dcb9.svg)
 ![Terraform](https://user-images.githubusercontent.com/118794159/229031924-8e19a0b2-45d3-45ff-98bb-40b4928b0d7b.svg)
 ![Docker](https://user-images.githubusercontent.com/118794159/229031932-8ef54262-e006-40b3-8ac5-7eb9ead321d9.svg)
 ![fastify](https://user-images.githubusercontent.com/118794159/229031942-dec75526-724c-4407-822a-6e305abe5beb.svg)
 ![serverless](https://user-images.githubusercontent.com/118794159/229032002-fe4463cd-5197-49e1-9c45-6afe79424abf.svg)
+![git](https://user-images.githubusercontent.com/118794159/229032294-4af4747e-ef66-4f94-9df1-7c0ce290135d.svg)
+![mysql](https://user-images.githubusercontent.com/118794159/229032322-c27277be-d3f8-4d5e-9a4f-d394cc841a38.svg)
+![node](https://user-images.githubusercontent.com/118794159/229032324-d5025d28-283f-432e-8a74-bdb33e55af14.svg)
+![graf ada](https://user-images.githubusercontent.com/118794159/229032334-28950aaf-7dae-47a1-996b-5417061f1417.svg)
+
 
 
 <!--
